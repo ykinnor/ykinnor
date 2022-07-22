@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ykinnor
+- 👀 I’m interested in ...Web developement, WordPress, Woo-Commerce
+- 📫 Reach me ... hello@loopanimation.com
